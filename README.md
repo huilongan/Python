@@ -1,7 +1,7 @@
 ##Data structure in Python
 
-# As a object-oriented programming language, Python is much eaiser than Java or C++. Here, I try to implement some ADTs of data structure
-# by using Python, which include:
+As a object-oriented programming language, Python is much eaiser than Java or C++. Here, I try to implement some ADTs of data structure
+by using Python, which include:
 
 -Dynamic Array 
 -Singly-Linked list, Doubly-Linked list
